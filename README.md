@@ -7,6 +7,7 @@ A curated list of awesome synthetic data for text location and recognition
 
 [SynthText_Chinese_version](https://github.com/JarveeLee/SynthText_Chinese_version)
 
+[synthtext100kCH](https://github.com/tongpi/synthtext100kCH)
 
 #### Text recognition
 
