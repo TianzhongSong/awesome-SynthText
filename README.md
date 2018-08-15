@@ -39,3 +39,12 @@ hahaha~
 [SynthText in the Wild Dataset](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
 
 [Chinese SynthText](https://github.com/xiaomaxiao/keras_ocr)
+
+[MSRA Text Detection 500 Database (MSRA-TD500)](http://www.iapr-tc11.org/mediawiki/index.php/MSRA_Text_Detection_500_Database_(MSRA-TD500))
+
+[KAIST Scene Text Database](http://www.iapr-tc11.org/mediawiki/index.php/KAIST_Scene_Text_Database)
+
+[NEOCR: Natural Environment OCR Dataset](http://www.iapr-tc11.org/mediawiki/index.php/NEOCR:_Natural_Environment_OCR_Dataset)
+
+[The Street View House Numbers (SVHN) Dataset](http://www.iapr-tc11.org/mediawiki/index.php/The_Street_View_House_Numbers_(SVHN)_Dataset)
+
