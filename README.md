@@ -9,6 +9,8 @@ A curated list of awesome synthetic data for text location and recognition and O
 
 [synthtext100kCH](https://github.com/tongpi/synthtext100kCH)
 
+[CurvedSynthText](https://github.com/Jyouhou/CurvedSynthText)
+
 #### Text recognition
 
 [Chinese_OCR_synthetic_data](https://github.com/wang-tf/Chinese_OCR_synthetic_data)
