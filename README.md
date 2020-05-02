@@ -11,6 +11,8 @@ A curated list of awesome synthetic data for text location and recognition and O
 
 [CurvedSynthText](https://github.com/Jyouhou/CurvedSynthText)
 
+[TextGenerator](https://github.com/BboyHanat/TextGenerator)
+
 #### Text recognition
 
 [Chinese_OCR_synthetic_data](https://github.com/wang-tf/Chinese_OCR_synthetic_data)
@@ -22,13 +24,6 @@ A curated list of awesome synthetic data for text location and recognition and O
 #### Other
 
 [idcardgenerator](https://github.com/airob0t/idcardgenerator)
-
-
-#### Not awesome!
-
-[text2image](https://github.com/TianzhongSong/text2image)
-
-hahaha~
 
 
 #### Datasets
