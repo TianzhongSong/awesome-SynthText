@@ -9,7 +9,7 @@ A curated list of awesome synthetic data for text location and recognition and O
 
 [synthtext100kCH](https://github.com/tongpi/synthtext100kCH)
 
-[CurvedSynthText](https://github.com/Jyouhou/CurvedSynthText)
+[CurvedSynthText](https://github.com/PkuDavidGuan/CurvedSynthText)
 
 [TextGenerator](https://github.com/BboyHanat/TextGenerator)
 
