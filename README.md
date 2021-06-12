@@ -19,7 +19,7 @@ A curated list of awesome synthetic data for text location and recognition and O
 
 [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)
 
-[text-renderer](https://github.com/Sanster/text_renderer)
+[text-renderer](https://github.com/oh-my-ocr/text_renderer)
 
 #### Other
 
